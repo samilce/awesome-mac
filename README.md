@@ -9,14 +9,10 @@ Any comments, suggestions? [Let us know!](https://github.com/samilce/awesome-mac
 
 ### Explanation
 
-[English](README.md)
-
 ![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
 ![App Store][app-store Icon] means **App store** hyperlink;\
 ![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
-
-**Awesome Mac App for macOS**. Installers for the latest stable build for Mac can be [downloaded here](https://github.com/jaywcjlove/amac/releases).
 
 ## Contents
 
@@ -121,6 +117,7 @@ an awesome code editor and live preview Markdown and LaTeX.
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gcollazo/mongodbapp)
 * [MongoDB](https://www.mongodb.com) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need. [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/ramnes/awesome-mongodb#desktop)
 * [Robo 3T](https://robomongo.org/download) - Robo 3T 1.3 brings you support for MongoDB 4.0 and SCRAM-SHA-256, an upgraded mongo shell, support for importing from MongoDB SRV connection strings, among many other fixes and improvements. ![Freeware][Freeware Icon]
+* [Nosqlclient](https://www.nosqlclient.com) - MongoDB client with great functionality [![Open-Source Software][OSS Icon]](https://github.com/nosqlclient/nosqlclient)
 
 ## Design and Product
 
