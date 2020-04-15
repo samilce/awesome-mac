@@ -82,10 +82,10 @@ an awesome code editor and live preview Markdown and LaTeX.
 
   * [Eclipse](https://www.eclipse.org) - Popular open-source IDE, mainly for Java but with plugin support for a wide array of languages and platforms. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
   * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM languages. (**Free** for Students)
-* [Xcode](https://developer.apple.com/xcode/) - Essential IDE for iOS/macOS development. [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
+  * [Xcode](https://developer.apple.com/xcode/) - Essential IDE for iOS/macOS development. [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
 
 #### Developer Utilities
-* [Visual Studio Code Java Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) - Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code.
+* [Visual Studio Code Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) - Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code.
 * [Java Development Kit 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - The JDK includes tools useful for developing and testing programs written in the Java programming language and running on the Java platform.
 * [Gemini](https://macpaw.com/gemini) - Intelligent duplicate file finder.
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - Fast and clever open source hex editor. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/hex-fiend/id1342896380)
@@ -103,6 +103,8 @@ an awesome code editor and live preview Markdown and LaTeX.
 * [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hishamhm/htop)
 * [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS. [![Open-Source Software][OSS Icon]](https://github.com/rgcr/m-cli) ![Freeware][Freeware Icon]
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software][OSS Icon]](https://github.com/guarinogabriel/Mac-CLI) ![Freeware][Freeware Icon]
+* [Saxon](http://saxon.sourceforge.net/) - Open Source Saxon XSLT & XQuery processor developed by Saxonica Limited. ![Open-Source Software][OSS Icon]
+* [Wkhtmltopdf](https://wkhtmltopdf.org/) - Convert html to pdf or image [![Open-Source Software][OSS Icon]](https://github.com/wkhtmltopdf/wkhtmltopdf)
 * [Zsh](https://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
 
 #### Virtualization
@@ -194,11 +196,13 @@ an awesome code editor and live preview Markdown and LaTeX.
 
 * [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful and stable keyboard customizer for OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tekezo/Karabiner)
+* [Logitech Options](https://www.logitech.com/tr-tr/product/options) - Specialize your logitech mouse buttons. ![Freeware][Freeware Icon]
+
 
 #### Quality of Life Improvements
 
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) -  Hold the ⌘-Key to get a list of all active shortcuts of the current application. It's as simple as that. ![Freeware][Freeware Icon]
-* [f.lux](https://justgetflux.com/) - Makes the color of your computer's display adapt to the time of day. ![Freeware][Freeware Icon]
+* [InsomniaX](https://github.com/semaja2/InsomniaX) - Keeps your mac awake. Discontinued and archived but working. Seeking for alternatives... [![Open-Source Software][OSS Icon]
 
 #### System Related Tools
 
@@ -215,7 +219,7 @@ an awesome code editor and live preview Markdown and LaTeX.
 * [AnyDesk](https://anydesk.com) - Provides Remote access across multiple machines.
 * [TeamViewer](https://www.teamviewer.com/en) - Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![Freeware][Freeware Icon]
 * [Microsoft RDP for Mac](https://apps.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) - Microsoft's RDP app for Mac
-
+* [Zoom](https://zoom.us/) - Zoom video conferencing app.
 
 ## Third Party App Markets
 
