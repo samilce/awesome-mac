@@ -189,7 +189,8 @@ an awesome code editor and live preview Markdown and LaTeX.
 
 #### File Organization Tools
 
-* [BetterZip 3](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR. ![Freeware][Freeware Icon]
+* [Keka](https://www.keka.io/en/) - the macOS file archiver. Archive tool supports 7z, Zip, Tar, Gzip, Bzip2, DMG, ISO. ![Freeware][Freeware Icon]
+* [BetterZip 3](https://macitbetter.com/) - Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.
 * [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. [![Open-Source Software][OSS Icon]](https://bitbucket.org/kosovan/theunarchiver) ![Freeware][Freeware Icon]
 
 #### Productivity
